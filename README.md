@@ -26,7 +26,7 @@
       alt="Portfolio"
     />
   </a>
-   <a href="https://drive.google.com/drive/u/0/my-drive" title="View Resume">
+   <a href="https://drive.google.com/drive/u/0/folders/1Gou1iAxhpQlCBpCKoop5WXUv2krd3Tug" title="View Resume">
     <img
       src="https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=2E86C1&logoColor=white&style=for-the-badge"
       height="35"
