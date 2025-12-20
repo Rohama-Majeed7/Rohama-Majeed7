@@ -19,6 +19,20 @@
       alt="LinkedIn"
     />
   </a>
+    <a href="https://porfolio-bgtn.vercel.app/" title="View My Portfolio">
+    <img
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Portfolio"
+    />
+  </a>
+   <a href="https://drive.google.com/drive/u/0/my-drive" title="View Resume">
+    <img
+      src="https://img.shields.io/static/v1?message=Resume&logo=readthedocs&label=&color=2E86C1&logoColor=white&style=for-the-badge"
+      height="35"
+      alt="Resume"
+    />
+  </a>
 </div>
 
 ###
