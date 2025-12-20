@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Roahama Majeed and I'm a Full Stack Web Developer, from Pakistan</h2>
+<h2 align="center">Hi 👋! My name is Roahama Majeed</h2><h2 align="center"> I'm a Full Stack Web Developer, from Pakistan</h2>
 
 ###
 
