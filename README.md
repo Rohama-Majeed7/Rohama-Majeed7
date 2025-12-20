@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 
   <!-- Frontend -->
   <h3>Frontend</h3>
@@ -32,7 +32,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" title="Bootstrap" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" title="Tailwind CSS" />
   </p>
 
   <br/>
@@ -71,8 +70,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
