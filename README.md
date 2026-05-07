@@ -86,11 +86,7 @@
 
 <hr>
 
-<h2>✨ Fun Fact</h2>
 
-<p>
-I enjoy building projects that solve real-world problems and improve user experience 🚀
-</p>
 
 </body>
 </html>
