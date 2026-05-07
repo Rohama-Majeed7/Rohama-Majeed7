@@ -10,9 +10,7 @@
 🚀 Full Stack Web Developer | React • Next.js • Node.js | Pakistan 
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies&center=true&width=500&height=45">
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohama-Majeed7&label=Profile%20Views&color=0e75b6&style=for-the-badge">
