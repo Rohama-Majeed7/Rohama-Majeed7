@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Rohama Majeed GitHub Profile</title>
-</head>
+
 
 <body>
 
