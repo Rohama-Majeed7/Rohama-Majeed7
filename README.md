@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Rohama-Majeed7&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 </p>
 
 <hr>
