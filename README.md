@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Rohama Majeed</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | React • Next.js • Node.js | Pakistan 🇵🇰
+🚀 Full Stack Web Developer | React • Next.js • Node.js | Pakistan 
 </h3>
 
 <p align="center">
